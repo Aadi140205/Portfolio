@@ -60,7 +60,6 @@ The project has a simple and straightforward file structure:
 .
 ├── 📄 index.html      # The main HTML file containing all the content.
 ├── 📄 styles.css      # The custom CSS file for styling and layout.
-└── 📄 script.js       # The JavaScript file (currently empty, for future interactivity).
 
 
 ## 🎨 Customization
