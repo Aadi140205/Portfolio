@@ -2,7 +2,7 @@
 
 This is the repository for my personal portfolio website, designed to showcase my skills, experience, and projects. It is a clean, modern, and fully responsive single-page application built with HTML, CSS, and styled with Tailwind CSS.
 
-### [View Live Demo](https://aadi140205.github.io/Portfolio/)) 
+### [View Live Demo](https://aadi140205.github.io/Portfolio/)
 
 ## ✨ Features
 
