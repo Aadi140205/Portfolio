@@ -4,8 +4,6 @@ This is the repository for my personal portfolio website, designed to showcase m
 
 ### [View Live Demo](https://your-github-username.github.io/your-repo-name/) 
 
-*(Replace the link above with your actual live URL after deploying it on GitHub Pages or another hosting service.)*
-
 ## ✨ Features
 
 - **Responsive Design:** Looks great on all devices, from mobile phones to desktop computers.
@@ -57,8 +55,6 @@ You just need a modern web browser like Google Chrome, Firefox, or Safari.
 ## 📂 File Structure
 
 The project has a simple and straightforward file structure:
-
-
 
 
 .
