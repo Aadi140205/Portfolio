@@ -31,26 +31,6 @@ This is the repository for my personal portfolio website, designed to showcase m
 - **Fonts:**
     - [Google Fonts](https://fonts.google.com/): Specifically using 'Inter' for the body and 'Dancing Script' for the main header.
 
-## 🚀 Getting Started
-
-To get a local copy up and running, follow these simple steps.
-
-### Prerequisites
-
-You just need a modern web browser like Google Chrome, Firefox, or Safari.
-
-### Installation
-
-1.  **Clone the repository:**
-    ```sh
-    git clone [https://github.com/your-github-username/your-repo-name.git](https://github.com/your-github-username/your-repo-name.git)
-    ```
-2.  **Navigate to the project directory:**
-    ```sh
-    cd your-repo-name
-    ```
-3.  **Open the `index.html` file in your browser:**
-    - You can do this by double-clicking the file in your file explorer or by right-clicking and selecting "Open with" your preferred browser.
 
 ## 📂 File Structure
 
@@ -72,6 +52,6 @@ To make this portfolio your own, you can easily edit the `index.html` file:
 
 ## 📄 License
 
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
+This project is licensed under the MIT License.
 
 
