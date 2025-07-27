@@ -1,0 +1,47 @@
+/* Custom styles for Inter font and smooth scrolling */
+body {
+    font-family: 'Inter', sans-serif;
+    scroll-behavior: smooth;
+    background-color: #f0f2f5; /* Light gray background */
+}
+
+/* Custom font class for the main header */
+.font-playfair {
+    font-family: 'Playfair Display', serif;
+}
+
+
+/* [FIX] Offset for sticky navigation bar.
+  This adds a top margin to where the browser will scroll when an anchor link is clicked.
+  This prevents the sticky nav from covering the section title.
+  Adjust the value if your navigation bar height changes.
+*/
+section[id] {
+  scroll-margin-top: 4.5rem; 
+}
+
+.section-title {
+    position: relative;
+    padding-bottom: 0.5rem;
+    margin-bottom: 1.5rem;
+}
+
+.section-title::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    width: 60px;
+    height: 4px;
+    background-color: #3b82f6; /* Blue underline */
+    border-radius: 2px;
+}
+
+/* Base styles for hoverable cards */
+.hover-card {
+    transition: background-color 0.3s ease, box-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.hover-card:hover {
+    transform: translateY(-3px); /* Slightly lift on hover */
+}
