@@ -2,14 +2,13 @@
 body {
     font-family: 'Inter', sans-serif;
     scroll-behavior: smooth;
-    background-color: #f0f2f5; /* Light gray background */
+    background-color: #111827; /* Dark gray background (gray-900) */
 }
 
-/* Custom font class for the main header */
-.font-playfair {
-    font-family: 'Playfair Display', serif;
+/* Custom font class for the script header */
+.font-brush {
+    font-family: 'Dancing Script', cursive;
 }
-
 
 /* [FIX] Offset for sticky navigation bar.
   This adds a top margin to where the browser will scroll when an anchor link is clicked.
@@ -33,7 +32,7 @@ section[id] {
     bottom: 0;
     width: 60px;
     height: 4px;
-    background-color: #3b82f6; /* Blue underline */
+    background-color: #3b82f6; /* Bright blue underline for contrast */
     border-radius: 2px;
 }
 
